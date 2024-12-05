@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Algonai</string>
+    <string name="botao_logar">Logar</string>
+    <string name="botao_criar">Criar Conta</string>
+    <string name="botao_cria_questionario">Criar Questionário</string>
+    <string name="botao_criar_perguntas">Criar Perguntas</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_sair">Sair</string>
+    <string name="criar">Criar</string>
+    <string name="botao_iniciar_questionario">Iniciar Questionário</string>
+    <string name="botao_Excluir_questionario">Escluir Questionário</string>
+    <string name="semSenha">Esqueci minha Senha</string>
+    <string name="semConta">Não tenho conta</string>
+    <string name="tenhoConta">Já tenho conta</string>
+</resources>
